@@ -23,6 +23,7 @@ Bài được thực hiện độc lập trên bộ ảnh được cấp. Các a
 ## 2. Quyết định phân lớp
 
 | Ảnh/vật thể | Lớp | Dấu hiệu nhìn thấy | Quy tắc áp dụng |
+| --- | --- | --- | --- |
 | Xe con màu đen | car | Kích thước nhỏ, dạng xe con, khoang hành khách thông thường | Gán car cho xe con thông thường |
 | Xe van màu trắng | van | Thân xe dạng hộp, khoang chở người/hàng phía sau, lớn hơn xe con | Gán van cho xe dạng van |
 | Xe tải | truck | Có phần cabin và thùng/khoang chở hàng riêng | Gán truck cho xe tải |
